@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/flmn28/score_management/src/management"
+	"github.com/johskw/score_management/src/management"
 	"os"
 )
 

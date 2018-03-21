@@ -3,7 +3,7 @@ package management
 import (
 	"bufio"
 	"fmt"
-	"github.com/flmn28/score_management/src/score"
+	"github.com/johskw/score_management/src/score"
 	"os"
 	"strconv"
 )
